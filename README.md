@@ -13,11 +13,11 @@
         Proyectos
     </a>
     <span>&nbsp;❖&nbsp;</span>
-    <a href="#🛠️-stack">
+    <a href="#-stack">
         Stack
     </a>
     <span>&nbsp;❖&nbsp;</span>
-    <a href="https://www.linkedin.com/in/camilodevelopersw/">
+    <a href="https://www.linkedin.com/in/camilodevelopersw">
         Linkedin
     </a>
 </div>
