@@ -13,11 +13,11 @@
         Proyectos
     </a>
     <span>&nbsp;❖&nbsp;</span>
-    <a href="#-Stack">
+    <a href="#🛠️-stack">
         Stack
     </a>
     <span>&nbsp;❖&nbsp;</span>
-    <a href="www.linkedin.com/in/camilodevelopersw">
+    <a href="https://www.linkedin.com/in/camilodevelopersw/">
         Linkedin
     </a>
 </div>
@@ -34,7 +34,7 @@
 |  #   | Proyecto         | Descripción                                                              | Código                                                                                                                                                                                   | Website                                                       |
 | --- | ---------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | 1   | **tinder-swipe** | Creando el efecto de swipe de Tinder con HTML, CSS y JavaScript. | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/GitDevCamilo/javascript-100-proyectos/tree/develop/01-tinder-swipe) | [![Vercel Badge](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=fff&style=flat-square)](#) |
-| 2   | **arkanoid-game** | Juego mítico y clásico de Arkanoid para controlar con teclado. | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/GitDevCamilo/javascript-100-proyectos/tree/develop/02-arkanoid-game) | [![Vercel Badge](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=fff&style=flat-square)](https://www.javascript100.dev/02-arkanoid-game) |
+| 2   | **arkanoid-game** | Juego mítico y clásico de Arkanoid para controlar con teclado. | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/GitDevCamilo/javascript-100-proyectos/tree/develop/02-arkanoid-game) | [![Vercel Badge](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=fff&style=flat-square)](#) |
 
 ## 🛠️ Stack
 
